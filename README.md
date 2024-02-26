@@ -1,6 +1,6 @@
-The project is created based on https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/ course.
+The project is created based on https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/ course, by Angie Jones
 
-In this course, I have learned how to:
+In this course, I have learned:
 How to install Selenium WebDriver and the other dependencies needed.
 How to use the WebDriver API to launch and interact with websites.
 Various techniques to find elements such as buttons, links, text, dropdowns, and more within a web application.
