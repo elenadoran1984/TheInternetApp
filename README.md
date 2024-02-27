@@ -1,6 +1,6 @@
 The project is created based on https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/ course, by Angie Jones.
 
-In this course, I have learned:
+**In this course, I have learned:**
 
 How to install Selenium WebDriver and the other dependencies needed.
 
@@ -30,7 +30,7 @@ Advanced topics like navigating multiple open tabs within a browser, as well as 
 
 How to write custom actions using JavaScript.
 
-Setup Environment:
+**Setup Environment:**
 
 Java SE 10+
 
