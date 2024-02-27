@@ -1,4 +1,4 @@
-The project is created based on https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/ course, by Angie Jones
+The project is created based on https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/ course, by Angie Jones.
 
 In this course, I have learned:
 
